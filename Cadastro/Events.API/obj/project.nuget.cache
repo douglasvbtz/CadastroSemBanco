@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gdmT5ziOICDkFjSd4LmCS64c3cruRKT00zTPpgVWmCweN2svg25DBwilPoxUpKx5SOIXJy5Yi2gwcfB8OxmPQ==",
+  "success": true,
+  "projectFilePath": "/home/douglaslv/projects/tds/Aula02/Events.API/Events.API.csproj",
+  "expectedPackageFiles": [
+    "/home/douglaslv/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/douglaslv/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/douglaslv/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/douglaslv/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/douglaslv/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/douglaslv/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
